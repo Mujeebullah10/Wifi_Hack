@@ -20,7 +20,7 @@ from typing import Dict
 print('''
 \033[1;92m Recoded By THBD
 BiRi_B@B@
-Telegram:https://t.me/termux_hacker_bd
+Telegram:https://t.me/termux_hack..mr
 One line Command:\nsudo python Wifi_Hack/birihack.py -i wlan0 -K\n
 For Help Type:\npython Wifi_Hack/birihack.py --help\033[0m
 ''')
